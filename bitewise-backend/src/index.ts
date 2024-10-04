@@ -51,7 +51,7 @@ const start = async () => {
   }
 
   app.listen(process.env.PORT || 3000, () => {
-    console.log('BiteWise has arrived!');
+    console.log('BiteWise has arrived!!');
   });
 };
 
